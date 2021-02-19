@@ -1,4 +1,4 @@
-# Maneira de trabalhar com dados nulos em pandas
+# Maneira de trabalhar com dados nulos e ausentes em pandas
 
 De maneira geral, é normal trabalhar com base de dados contendo dados ausentes e dados duplicados, porém temos maneiras de corrigir esses empecilhos com o auxílio da biblioteca pandas.
 
